@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="../Readme/image/Screenshot 2026-06-27 233632.png" />
+<img width="1200" height="475" alt="GHBanner" src="../Frontend/Readme/image/Screenshot 2026-06-27 233632.png" />
 </div>
 
 # Run and deploy your To-Do-List_app
