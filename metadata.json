@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List",
+  "description": "A complete, beginner-friendly To-Do List Web Application with custom login, registration, task management, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
